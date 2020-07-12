@@ -1,2 +1,6 @@
-# Project_NYSE
- Dynamic dashboard and forecasting of NYSE data
+# Udacity Project - NYSE
+-------------------------------------------------
+
+### Project - NYSE
+This project analyzed NewYork Stock Exchange data and creates dynamic dashboard
+and forecasting scenarios
